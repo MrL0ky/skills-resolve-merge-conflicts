@@ -1,1 +1,3 @@
-CONFLICTO!!!
+# References
+
+* octocat 1 😈
